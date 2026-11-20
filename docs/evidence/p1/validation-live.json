@@ -1,0 +1,41 @@
+{
+  "mode": "live_ai",
+  "elapsedMs": 1002,
+  "eventId": "TEAM_DISPUTE",
+  "offerId": "ROUTE_DRILL",
+  "offer": "加测两条动线",
+  "actionName": "彩排与分工",
+  "baseCost": "−¥40",
+  "checkedCost": "−¥50",
+  "before": 460,
+  "afterAdoption": 410,
+  "capacityDelta": 11,
+  "title": "樱花市集开场了！",
+  "final": {
+    "budget": 210,
+    "capacity": 57,
+    "signups": 40
+  },
+  "responses": [
+    {
+      "mode": "live_ai",
+      "eventId": "TEAM_DISPUTE",
+      "offerId": "ROUTE_DRILL"
+    },
+    {
+      "mode": "live_ai",
+      "eventId": "VIRAL_MOMENT",
+      "offerId": "RADIO_PUSH"
+    },
+    {
+      "mode": "live_ai",
+      "eventId": "QUEUE_SURGE",
+      "offerId": "ROUTE_DRILL"
+    },
+    {
+      "mode": "live_ai",
+      "eventId": "GEAR_CHECK",
+      "offerId": "SHARED_BOOTH"
+    }
+  ]
+}

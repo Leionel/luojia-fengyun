@@ -1,0 +1,259 @@
+[
+  {
+    "route": "joint",
+    "window": 1,
+    "revision": 1,
+    "basisDigest": "3cdeea6a",
+    "traceId": "e093218e-dea5-48a1-8395-686dc4f53d9d",
+    "modelRejected": 0,
+    "liveFair": {
+      "signups": 39,
+      "attendance": 39,
+      "photographerShift": null,
+      "approval": null
+    },
+    "ruleFair": {
+      "signups": 39,
+      "attendance": 39,
+      "photographerShift": null,
+      "approval": null
+    },
+    "movements": [
+      {
+        "actor": "阿南",
+        "chosen": "w1:anan:outreach",
+        "after": "跟摄影社一起联络新生",
+        "location": "plaza",
+        "prior": "安排本周日程",
+        "ruleId": "w1:anan:outreach",
+        "ruleAction": "跟摄影社一起联络新生",
+        "ruleLocation": "plaza",
+        "reservation": {
+          "id": "w1:anan:outreach",
+          "resourceId": "person:anan",
+          "owner": "player",
+          "projectId": "w1:anan:outreach",
+          "from": 64,
+          "to": 68,
+          "units": 1,
+          "status": "released"
+        },
+        "ruleReservation": {
+          "id": "w1:anan:outreach",
+          "resourceId": "person:anan",
+          "owner": "player",
+          "projectId": "w1:anan:outreach",
+          "from": 64,
+          "to": 68,
+          "units": 1,
+          "status": "released"
+        }
+      },
+      {
+        "actor": "江一",
+        "chosen": "w1:jiangyi:practice",
+        "after": "和联摆伙伴核对现场班次",
+        "location": "plaza",
+        "prior": "安排本周日程",
+        "ruleId": "w1:jiangyi:practice",
+        "ruleAction": "和联摆伙伴核对现场班次",
+        "ruleLocation": "plaza",
+        "reservation": {
+          "id": "w1:jiangyi:practice",
+          "resourceId": "person:jiangyi",
+          "owner": "player",
+          "projectId": "w1:jiangyi:practice",
+          "from": 64,
+          "to": 68,
+          "units": 1,
+          "status": "released"
+        },
+        "ruleReservation": {
+          "id": "w1:jiangyi:practice",
+          "resourceId": "person:jiangyi",
+          "owner": "player",
+          "projectId": "w1:jiangyi:practice",
+          "from": 64,
+          "to": 68,
+          "units": 1,
+          "status": "released"
+        }
+      },
+      {
+        "actor": "阿柠",
+        "chosen": "w1:aning:practice",
+        "after": "练习入口调度",
+        "location": "workshop",
+        "prior": "安排本周日程",
+        "ruleId": "w1:aning:practice",
+        "ruleAction": "练习入口调度",
+        "ruleLocation": "workshop",
+        "reservation": {
+          "id": "w1:aning:practice",
+          "resourceId": "person:aning",
+          "owner": "player",
+          "projectId": "w1:aning:practice",
+          "from": 64,
+          "to": 68,
+          "units": 1,
+          "status": "released"
+        },
+        "ruleReservation": {
+          "id": "w1:aning:practice",
+          "resourceId": "person:aning",
+          "owner": "player",
+          "projectId": "w1:aning:practice",
+          "from": 64,
+          "to": 68,
+          "units": 1,
+          "status": "released"
+        }
+      },
+      {
+        "actor": "小予",
+        "chosen": "w1:xiaoyu:catalog",
+        "after": "核对本周账目",
+        "location": "room",
+        "prior": "安排本周日程",
+        "ruleId": "w1:xiaoyu:catalog",
+        "ruleAction": "核对本周账目",
+        "ruleLocation": "room",
+        "reservation": {
+          "id": "w1:xiaoyu:catalog",
+          "resourceId": "person:xiaoyu",
+          "owner": "player",
+          "projectId": "w1:xiaoyu:catalog",
+          "from": 64,
+          "to": 66,
+          "units": 1,
+          "status": "released"
+        },
+        "ruleReservation": {
+          "id": "w1:xiaoyu:catalog",
+          "resourceId": "person:xiaoyu",
+          "owner": "player",
+          "projectId": "w1:xiaoyu:catalog",
+          "from": 64,
+          "to": 66,
+          "units": 1,
+          "status": "released"
+        }
+      }
+    ]
+  },
+  {
+    "route": "independent",
+    "window": 1,
+    "revision": 1,
+    "basisDigest": "c233cd21",
+    "traceId": "763654e2-a293-4daa-936c-6bf4bb47db00",
+    "modelRejected": 0,
+    "liveFair": {
+      "signups": 34,
+      "attendance": 28,
+      "photographerShift": null,
+      "approval": "pending"
+    },
+    "ruleFair": {
+      "signups": 34,
+      "attendance": 28,
+      "photographerShift": null,
+      "approval": "pending"
+    },
+    "movements": [
+      {
+        "actor": "阿南",
+        "chosen": "w1:anan:posters",
+        "after": "在等本社审批",
+        "location": "workshop",
+        "prior": "安排本周日程",
+        "ruleId": "w1:anan:posters",
+        "ruleAction": "在等本社审批",
+        "ruleLocation": "workshop",
+        "reservation": null,
+        "ruleReservation": null
+      },
+      {
+        "actor": "江一",
+        "chosen": "w1:jiangyi:outreach",
+        "after": "联络音乐社的候补场地",
+        "location": "stage",
+        "prior": "安排本周日程",
+        "ruleId": "w1:jiangyi:outreach",
+        "ruleAction": "联络音乐社的候补场地",
+        "ruleLocation": "stage",
+        "reservation": {
+          "id": "w1:jiangyi:outreach",
+          "resourceId": "person:jiangyi",
+          "owner": "player",
+          "projectId": "w1:jiangyi:outreach",
+          "from": 64,
+          "to": 68,
+          "units": 1,
+          "status": "released"
+        },
+        "ruleReservation": {
+          "id": "w1:jiangyi:outreach",
+          "resourceId": "person:jiangyi",
+          "owner": "player",
+          "projectId": "w1:jiangyi:outreach",
+          "from": 64,
+          "to": 68,
+          "units": 1,
+          "status": "released"
+        }
+      },
+      {
+        "actor": "阿柠",
+        "chosen": "w1:aning:rest",
+        "after": "整理物料并休整",
+        "location": "room",
+        "prior": "安排本周日程",
+        "ruleId": "w1:aning:practice",
+        "ruleAction": "练习入口调度",
+        "ruleLocation": "workshop",
+        "reservation": null,
+        "ruleReservation": {
+          "id": "w1:aning:practice",
+          "resourceId": "person:aning",
+          "owner": "player",
+          "projectId": "w1:aning:practice",
+          "from": 64,
+          "to": 68,
+          "units": 1,
+          "status": "released"
+        }
+      },
+      {
+        "actor": "小予",
+        "chosen": "w1:xiaoyu:catalog",
+        "after": "核对本周账目",
+        "location": "room",
+        "prior": "安排本周日程",
+        "ruleId": "w1:xiaoyu:catalog",
+        "ruleAction": "核对本周账目",
+        "ruleLocation": "room",
+        "reservation": {
+          "id": "w1:xiaoyu:catalog",
+          "resourceId": "person:xiaoyu",
+          "owner": "player",
+          "projectId": "w1:xiaoyu:catalog",
+          "from": 64,
+          "to": 66,
+          "units": 1,
+          "status": "released"
+        },
+        "ruleReservation": {
+          "id": "w1:xiaoyu:catalog",
+          "resourceId": "person:xiaoyu",
+          "owner": "player",
+          "projectId": "w1:xiaoyu:catalog",
+          "from": 64,
+          "to": 66,
+          "units": 1,
+          "status": "released"
+        }
+      }
+    ]
+  }
+]
